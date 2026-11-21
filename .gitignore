@@ -1,0 +1,11 @@
+# build output
+*.obj
+*.exe
+*.lib
+*.d
+bin/
+*.iso
+# local test data
+screenshots/*.tmp
+# Python
+__pycache__/

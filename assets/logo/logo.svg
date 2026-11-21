@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+<title>Conduit</title>
+<rect width="256" height="256" rx="44" fill="#05170a"/>
+<polygon points="56.0,47.2 222.0,47.2 222.0,186.8 200.0,208.8 34.0,208.8 34.0,69.2" fill="#05170a" fill-opacity="0.55" stroke="#b2d628" stroke-opacity="1.00" stroke-width="8.2" stroke-linejoin="round"/>
+<polygon points="80.8,57.9 210.3,57.9 210.3,166.9 193.2,184.1 63.7,184.1 63.7,75.1" fill="#05170a" fill-opacity="0.55" stroke="#b2d628" stroke-opacity="0.83" stroke-width="6.7" stroke-linejoin="round"/>
+<polygon points="102.2,64.8 203.2,64.8 203.2,149.8 189.8,163.2 88.8,163.2 88.8,78.2" fill="#05170a" fill-opacity="0.55" stroke="#b2d628" stroke-opacity="0.66" stroke-width="5.5" stroke-linejoin="round"/>
+<polygon points="120.8,68.6 199.6,68.6 199.6,134.9 189.2,145.4 110.4,145.4 110.4,79.1" fill="#05170a" fill-opacity="0.55" stroke="#b2d628" stroke-opacity="0.49" stroke-width="4.5" stroke-linejoin="round"/>
+<polygon points="137.3,70.1 198.8,70.1 198.8,121.8 190.7,129.9 129.2,129.9 129.2,78.2" fill="#05170a" fill-opacity="0.55" stroke="#b2d628" stroke-opacity="0.32" stroke-width="3.8" stroke-linejoin="round"/>
+<polygon points="150.0,156.0 167.0,134.0 156.0,134.0 156.0,104.0 144.0,104.0 144.0,134.0 133.0,134.0" fill="#b2d628" fill-opacity="0.25" stroke="#b2d628" stroke-opacity="0.25" stroke-width="9.0" stroke-linejoin="round"/>
+<polygon points="150.0,156.0 167.0,134.0 156.0,134.0 156.0,104.0 144.0,104.0 144.0,134.0 133.0,134.0" fill="#e2f0ce" fill-opacity="1.00" stroke="#e2f0ce" stroke-opacity="1.00" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="112.0,104.0 129.0,126.0 118.0,126.0 118.0,156.0 106.0,156.0 106.0,126.0 95.0,126.0" fill="#b2d628" fill-opacity="0.25" stroke="#b2d628" stroke-opacity="0.25" stroke-width="9.0" stroke-linejoin="round"/>
+<polygon points="112.0,104.0 129.0,126.0 118.0,126.0 118.0,156.0 106.0,156.0 106.0,126.0 95.0,126.0" fill="#e2f0ce" fill-opacity="1.00" stroke="#e2f0ce" stroke-opacity="1.00" stroke-width="2.0" stroke-linejoin="round"/>
+</svg>
